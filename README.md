@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chukwudimma Oradiegwu
-- 👀 I’m interested in Data Analytics and Full-Stack Development
-- 🌱 I’m currently learning Data Analytics and Programming with Python and R as well as Software Engineering with ALX
-- 💞️ I’m looking to collaborate on Various Data and fullstack Projects
+- 👀 I’m interested in Data Analytics
+- 🌱I have experience in Data Analytics, utilizing Excel, programming in Python and R, querying with SQL, and creating data visualizations with Tableau and Power BI.
+- 💞️ I’m looking to collaborate on Various Data Projects
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/chukwudimma-oradiegwu/)
 
 <!---
